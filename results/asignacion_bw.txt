@@ -1,0 +1,13 @@
+ASIGNACION DE ANCHO DE BANDA - MOCHILA 0-1
+Capacidad W = 500
+Valor optimo = 707
+
+Solicitudes seleccionadas:
+customerID,peso,valor
+4312-KFRXN,171,254
+9286-BHDQG,314,453
+
+CONTRAEJEMPLO CODICIOSO:
+Capacidad subejemplo = 329
+Codicioso elige: 0526-SXDJP (ratio=1.42) -> valor=421 [NO optimo]
+PD elige: 6734-PSBAW + 7083-MIOPC -> valor=439 [SI optimo]
